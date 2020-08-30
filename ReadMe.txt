@@ -4,3 +4,5 @@ Input: It takes gray scale image as an input. It passes through multiple stages 
 Output: The reconstructued output image has 3 channels resepctively for RGB.
 
 Here I have used gradient tape to have well structured and desirable training.
+
+A more better results can be obtained by chossing as lesser batch size as possible. So that the GAN can understand color-variation for each image.
