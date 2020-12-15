@@ -18,12 +18,15 @@ That result and ensure in a stable GAN training.
 ## Outputs
 
 ### Epoch 10
-
+<img src="https://github.com/Gruhit13/ColorizerGAN/blob/master/Plot_10_epoch%20(1).png" alt="Board" width="350" height="350">
 
 ### Epoch 20
-
+<img src="https://github.com/Gruhit13/ColorizerGAN/blob/master/Plot_20_epoch.png" alt="Board" width="350" height="350">
 
 ### Epoch 30
+<img src="https://github.com/Gruhit13/ColorizerGAN/blob/master/Plot_30_epoch.png" alt="Board" width="350" height="350">
 
+## Note
 A more better results can be obtained by choosing as smaller batch size as possible. So that the GAN can understand color-variation for each image.
-More powerful GPU can be of great use and some hyper-parameter tuning can serve as a cherry on cake.
+More powerful GPU can be of great use and some hyper-parameter tuning can serve as a cherry on cake. Here I traing this GAN for 50 epoch but with 
+more powerful GPU/TPU a training for 150 epochs can serve very astonishing results.
